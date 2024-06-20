@@ -1,0 +1,7 @@
+
+
+
+
+----------------------------3--------
+3.postgresql create db blog_rest_api
+4.cmd pip install psycopg2
